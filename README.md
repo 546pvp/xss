@@ -1,2 +1,3 @@
 # xss
-My XSS payloads
+Here I have hosted scripts and XSS payloads. 
+
